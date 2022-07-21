@@ -16,3 +16,21 @@ C:\Users\home\source\repos\Information\Information\obj\Debug\Information.Employe
 C:\Users\home\source\repos\Information\Information\obj\Debug\Information.MainWindow.resources
 C:\Users\home\source\repos\Information\Information\obj\Debug\Information.csproj.CopyComplete
 C:\Users\home\source\repos\Information\Information\obj\Debug\Information.SendMessageForm.resources
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\Information.exe.config
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\Information.exe
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\Information.pdb
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\EntityFramework.dll
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\EntityFramework.xml
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.csprojAssemblyReference.cache
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.EmployeeControl.resources
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.MainWindow.resources
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.Properties.Resources.resources
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.SendMessageForm.resources
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.csproj.GenerateResource.cache
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.csproj.CopyComplete
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.exe
+C:\Users\home\OneDrive\Рабочий стол\PromTech\rep\TzPromTech\Information\Information\obj\Debug\Information.pdb
